@@ -39,7 +39,7 @@ The data is provided as a zip-compressed text file with 26 columns of numbers, s
 - Unit number
 - Time, in cycles
 - Operational setting 1
-- Operational setting 2
+- Operational" setting 2
 - Operational setting 3
 - Sensor measurement 1
 - Sensor measurement 2
